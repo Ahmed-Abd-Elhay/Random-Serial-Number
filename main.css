@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.serial {
+    width: 300px;
+    margin: 50px auto;
+    height: 80px;
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: #ffffff;
+    border-radius: 6px;
+}
+
+.generat {
+    width: 188px;
+    margin: 50px auto;
+    height: 71px;
+    background-color: #1b99f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: #ffffff;
+    border-radius: 6px;
+    cursor: pointer;
+    user-select: none;
+}
